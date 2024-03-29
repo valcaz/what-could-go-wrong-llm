@@ -1,10 +1,10 @@
 layout:
 - changed-files:
-  - any-glob-to-any-file: *.tex
+  - any-glob-to-any-file: '*.tex'
 
 documentation:
 - changed-files:
-  - any-glob-to-any-file: *.Md
+  - any-glob-to-any-file: '*.md'
 
 content:
 - changed-files:
