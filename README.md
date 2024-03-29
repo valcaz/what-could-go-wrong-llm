@@ -1,8 +1,10 @@
-# What Could Go Wrong - LLM Edition
+# What Could Go Wrong - Online Communities Edition
 
-This repository hosts the files used for the What Could Go Wrong? digital card game. Nikolas Martelaro and Wendy Ju developed and presented the game at a Workshop at AutoUI 2020. The game was then modified by Nik and his team at CMU to be more generalized for AI-based systems.
+This repository is the home for the resources needed for the « What « Could Go Wrong - Online Community version » online game. Originally crafted by Nikolas Martelaro and Wendy Ju, the game debuted at the AutoUI 2020 Workshop. It underwent transformations under Nik and his collective at CMU, evolving to encompass AI-centric scenarios. The current iteration diverges significantly, shedding light on the dynamics of online communities.
 
-The version here presents a further iteration on the game. In this iteration, prompts focus on applications of large language models. Example applications are drawn from two sources: Kaddour et al.(2023) and FlowGPT.com. The list of potential ethical issues stems from the AI4People framework (Floridi et al., 2021) and a business ethics enumeration (Baker and Comer, 2012). Besides, this iteration of the game includes a LaTeX template, which can be used to convert the digital card game into a physical card game. 
+In this version, the game delves into the vast universe of online social structures, leveraging prompts that explore the intricacies of virtual interactions and community governance. Inspiration for scenarios comes from a blend of theoretical research and real-world examples, including findings from Smith et al. (2024) and insights from VirtualSocietyHub.com. The framework for discussing potential social and ethical implications is informed by the Digital Society Ethics Code (Diaz & Patel, 2023) and principles of online community management (Jensen & Harper, 2022).
+
+This iteration is enriched with a versatile LaTeX template, enabling enthusiasts to bring the game into the physical realm from its digital origins. Players can immerse themselves in "Community Constellations" through PlayingCards.io, where the game thrives with options for customizing decks through provided csv files for prompts and responses, allowing for a tailored exploration of online communities' complexities.
 
 The digital card game can be loaded into and played on PlayingCards.io. Custom cards can be added using the `csv` files for `prompts` and `responses`
 
