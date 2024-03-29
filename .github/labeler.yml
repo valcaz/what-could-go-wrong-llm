@@ -1,0 +1,11 @@
+layout:
+- changed-files:
+  - any-glob-to-any-file: *.tex
+
+documentation:
+- changed-files:
+  - any-glob-to-any-file: *.Md
+
+content:
+- changed-files:
+  - any-glob-to-any-file: '*.csv|*.ods'
